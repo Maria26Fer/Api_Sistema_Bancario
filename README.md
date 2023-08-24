@@ -1,4 +1,4 @@
-![Logo](../Logo%201.jpeg)
+![Logo](./Logo%201.jpeg)
 
 # Api Sistema Bancário
 Este é um projeto de uma RESTful API que simula uma variedade de funcionalidades
