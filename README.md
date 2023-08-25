@@ -9,7 +9,6 @@ bancárias,<br> desenvolvido como parte do desafio do módulo 02 do curso de bac
 - [Etapas do projeto](#etapas-do-projeto)
 - [Ferramentas ultilizadas](#ferramentas-ultilizadas)
 - [Pré-requisitos](#pré-requisitos)
-- [Demonstração do projeto](#demonstração-do-projeto)
 
 
 ## Etapas do projeto
